@@ -1,0 +1,41 @@
+-------------------- Auto-Git Log --------------------
+		Wed May 18 2022 08:11:20 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* form/.gitignore
+* form/.npmignore
+* form/package.json
+* form/webpack.config.js
+* package.json
+
+
+Created files:
+* .autogit/logs/log-18-4-2022-7-33-49.txt
+* form/.babelrc
+* form/build/index.js
+* form/package-lock.json
+* form/src/Button.js
+* form/src/CallParentMethod.js
+* form/src/DynamicComponent.js
+* form/src/Form.js
+* form/src/FormCheck.js
+* form/src/FormCheck2.js
+* form/src/FormInputGroup.js
+* form/src/FormOriginal.js
+* form/src/FormResponseDisplay.js
+* form/src/FormSelect.js
+* form/src/FormText.js
+* form/src/FormTextArea.js
+* form/src/FullButton.js
+* form/src/HttpRequest.js
+* form/src/MutedText.js
+* form/src/ProcessHttpMessage.js
+* form/src/SendChatBtn.js
+* form/src/index.js
+
+
+Deleted files:
+
+
+Renamed files:

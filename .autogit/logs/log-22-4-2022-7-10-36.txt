@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+Sun May 22 2022 07:10:36 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/App.js
+* src/assets/css/tailwind.css
+* src/components/layouts/DashboardLayout.js
+* src/components/nav/Header.js
+* src/components/pageComponent/Hero.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

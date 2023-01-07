@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+Fri Jun 10 2022 08:10:30 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/onboarding/Login.js
+* src/index.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

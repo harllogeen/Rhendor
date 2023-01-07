@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+Sun Sep 11 2022 22:37:23 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/App.js
+* src/assets/css/tailwind.css
+* src/components/pageComponent/Hero.js
+* src/components/pageComponent/ServicesGridWithSlider.js
+
+
+Created files:
+* .autogit/logs/log-11-8-2022-21-36-27.txt
+
+
+Deleted files:
+
+
+Renamed files:

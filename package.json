@@ -1,0 +1,89 @@
+{
+  "name": "rhenda",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emoji-mart/data": "^1.0.1",
+    "@headlessui/react": "^1.6.0",
+    "@types/jest": "^28.1.2",
+    "@types/node": "^18.0.0",
+    "@types/react": "^18.0.14",
+    "@types/react-dom": "^18.0.5",
+    "autoprefixer": "^10.4.4",
+    "axios": "^0.27.2",
+    "dayjs": "^1.11.5",
+    "des_react_form": "^1.0.1",
+    "des-dark-mode": "^1.0.0",
+    "des-http-processor": "^2.0.0",
+    "des-svg-icons": "^1.0.1",
+    "des-utilities": "^1.0.4",
+    "emoji-mart": "^5.0.0",
+    "firebase": "^9.8.3",
+    "flowbite": "^1.4.2",
+    "formik": "^2.2.9",
+    "luxon": "^2.4.0",
+    "postcss": "^8.4.12",
+    "react": "^18.0.0",
+    "react-detect-offline": "^2.4.5",
+    "react-dom": "^18.0.0",
+    "react-hot-keys": "^2.7.2",
+    "react-hotkeys": "^2.0.0",
+    "react-hotkeys-hook": "^3.4.6",
+    "react-icons": "^4.4.0",
+    "react-images-uploading": "^3.1.6",
+    "react-infinite-scroller": "^1.2.6",
+    "react-loading-skeleton": "^3.1.0",
+    "react-router-dom": "^6.3.0",
+    "react-router-hash-link": "^2.4.3",
+    "react-scripts": "5.0.0",
+    "react-slick": "^0.29.0",
+    "react-svg": "^15.0.4",
+    "react-toastify": "^9.0.1",
+    "react-web-share": "^2.0.0",
+    "slick-carousel": "^1.8.1",
+    "sweetalert2": "^11.4.19",
+    "typescript": "^4.7.4",
+    "web-vitals": "^2.1.4",
+    "yup": "^0.32.11"
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
+      "prettier --write"
+    ]
+  },
+  "scripts": {
+    "tailwind:start": "tailwindcss -i ./src/tailwind.src.css -o ./src/assets/css/tailwind.css",
+    "tailwind:watch": "tailwindcss -i ./src/tailwind.src.css -o ./src/assets/css/tailwind.css --watch",
+    "start": "npm run tailwind:start && react-scripts start",
+    "build": "npm run tailwind:start && react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.2",
+    "tailwindcss": "^3.0.23"
+  }
+}

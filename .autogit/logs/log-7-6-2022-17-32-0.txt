@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+Thu Jul 07 2022 17:32:00 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/user/Account.js
+* src/Pages/user/EditProfile.js
+* src/components/form/Form.js
+* src/components/pageComponent/UserProfile.js
+* src/components/pageComponent/WhatsNewInput.jsx
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

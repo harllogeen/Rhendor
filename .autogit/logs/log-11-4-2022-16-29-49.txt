@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Wed May 11 2022 16:29:49 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/assets/css/tailwind.css
+* src/components/form/Button.js
+* src/components/form/Form.js
+* src/components/form/FullButton.js
+* src/components/pageComponent/ChatList.js
+
+
+Created files:
+* .autogit/logs/log-11-4-2022-15-58-7.txt
+
+
+Deleted files:
+
+
+Renamed files:

@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+Thu Jul 07 2022 07:29:29 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/components/form/Form.js
+* src/components/nav/CreatePost.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

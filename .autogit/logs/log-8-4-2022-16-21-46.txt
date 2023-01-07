@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 08 2022 16:21:46 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/components/features/DuplicateItems.js
+* src/components/pageComponent/ChatList.js
+* src/components/pageComponent/ChatListContent.js
+* src/components/pageComponent/ChatPreview.js
+
+
+Created files:
+* .autogit/logs/log-8-4-2022-15-50-15.txt
+
+
+Deleted files:
+
+
+Renamed files:

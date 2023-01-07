@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+Thu Jun 09 2022 04:43:16 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/onboarding/BecomeARhendor.js
+* src/assets/css/tailwind.css
+* src/tailwind.src.css
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

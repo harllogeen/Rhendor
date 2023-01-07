@@ -1,0 +1,38 @@
+-------------------- Auto-Git Log --------------------
+		Sat May 07 2022 13:59:23 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* package-lock.json
+* package.json
+* public/bit/static/js/622.856a8b57.js
+* src/Pages/onboarding/ResetNewPasswordSuccess++.js
+* src/Pages/onboarding/SetNewPassword++.js
+* src/Pages/pattern.svg
+* src/Pages/us/FrequentlyAskedQuestions.js
+* src/Pages/user/Dashboard++.js
+* src/assets/css/tailwind.css
+* src/assets/img/others/mask-img.svg
+* src/assets/img/others/pattern.svg
+* src/components/features/DuplicateItems.js
+* src/components/icons/SvgIcon.js
+* src/components/layouts/ResetLayout.js
+* src/components/nav/PagesNav.js
+* src/components/nav/ProfileNav++.js
+* src/components/nav/ProfileNav.js
+* src/components/pageComponent/ChatBoxContainer.js
+* src/components/pageComponent/ChatBoxContent.js
+* src/components/pageComponent/ChatListHeader.js
+* src/components/pageComponent/ChatMessage.js
+* src/components/pageComponent/DashboardCard++.js
+* src/components/pageComponent/PostsContainer.js
+* src/components/pageComponent/SmallAccountCard.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

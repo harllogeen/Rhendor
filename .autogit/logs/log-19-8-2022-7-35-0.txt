@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+Mon Sep 19 2022 07:35:00 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* package-lock.json
+* package.json
+* src/components/pageComponent/PostCard.js
+* yarn.lock
+
+
+Created files:
+* .autogit/logs/log-19-8-2022-0-18-39.txt
+
+
+Deleted files:
+
+
+Renamed files:

@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Wed May 18 2022 07:02:32 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/onboarding/BecomeARhendor.js
+* src/Pages/us/Contact.js
+* src/components/nav/Header.js
+
+
+Created files:
+* .autogit/logs/log-17-4-2022-9-48-28.txt
+
+
+Deleted files:
+
+
+Renamed files:

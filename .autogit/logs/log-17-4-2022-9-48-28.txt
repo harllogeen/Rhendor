@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Tue May 17 2022 09:48:28 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/onboarding/BecomeARhendor.js
+* src/Pages/onboarding/Login.js
+* src/Pages/onboarding/Register.js
+* src/Pages/us/Contact.js
+* src/assets/css/tailwind.css
+
+
+Created files:
+* .autogit/logs/log-15-4-2022-16-21-45.txt
+
+
+Deleted files:
+
+
+Renamed files:

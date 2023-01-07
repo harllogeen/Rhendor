@@ -1,0 +1,27 @@
+-------------------- Auto-Git Log --------------------
+		Fri May 20 2022 03:58:14 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* form/build/index.js
+* form/src/components/AlertText.js
+* form/src/components/BindThis.js
+* form/src/components/CallParentMethod.js
+* form/src/components/HttpRequest.js
+* form/src/components/InputGroup.js
+* form/src/components/ProcessHttpMessage.js
+* form/src/components/SvgIcon.js
+* form/src/components/Text.js
+* form/src/components/TextArea.js
+* form/src/index.js
+* src/Pages/user/EditProfile.js
+
+
+Created files:
+* .autogit/logs/log-20-4-2022-1-51-38.txt
+
+
+Deleted files:
+
+
+Renamed files:

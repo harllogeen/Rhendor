@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Sun Apr 17 2022 20:35:22 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/onboarding/Register.js
+* src/components/FormCheck.js
+
+
+Created files:
+* .autogit/logs/log-17-3-2022-20-4-35.txt
+* src/Pages/onboarding/BecomeARendor+.js
+* src/components/FormCheck4.js
+* src/components/FormCheck5.js
+
+
+Deleted files:
+
+
+Renamed files:

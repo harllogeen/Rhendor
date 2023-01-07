@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+Wed May 25 2022 20:23:00 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/onboarding/Register.js
+* src/components/pageComponent/FullAccountCard.js
+* src/components/pageComponent/SmallAccountCard.js
+
+
+Created files:
+
+
+Deleted files:
+* src/components/pageComponent/ContactRhendor.js
+
+
+Renamed files:

@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+		Wed May 11 2022 14:53:27 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/user/EditProfile.js
+* src/assets/css/tailwind.css
+* src/components/form/Form.js
+* src/components/form/ProcessHttpMessage.js
+* src/components/nav/DashboardNav.js
+* src/components/nav/Sidebar.js
+
+
+Created files:
+* .autogit/logs/log-11-4-2022-14-21-32.txt
+
+
+Deleted files:
+
+
+Renamed files:

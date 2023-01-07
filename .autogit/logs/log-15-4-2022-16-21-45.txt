@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 15 2022 16:21:45 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/assets/css/tailwind.css
+* src/components/pageComponent/Rating.js
+* src/components/pageComponent/UserJobDescription.js
+
+
+Created files:
+* .autogit/logs/log-15-4-2022-15-48-24.txt
+
+
+Deleted files:
+
+
+Renamed files:

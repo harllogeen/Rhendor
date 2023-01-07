@@ -1,0 +1,34 @@
+-------------------- Auto-Git Log --------------------
+		Wed May 18 2022 08:45:51 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* form/src/index.js
+* src/Pages/user/EditProfile.js
+
+
+Created files:
+* .autogit/logs/log-18-4-2022-8-11-20.txt
+
+
+Deleted files:
+
+
+Renamed files:
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]

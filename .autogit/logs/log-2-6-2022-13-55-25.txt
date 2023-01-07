@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+Sat Jul 02 2022 13:55:25 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/user/Dashboard.js
+* src/Pages/user/EditProfile.js
+* src/assets/css/tailwind.css
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

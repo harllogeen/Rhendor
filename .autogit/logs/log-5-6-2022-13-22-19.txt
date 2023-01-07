@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+Tue Jul 05 2022 13:22:19 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/user/EditProfile.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

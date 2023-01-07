@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Sun Apr 10 2022 09:46:14 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/onboarding/Login.js
+* src/assets/css/output.css
+* src/components/TwoSections.js
+* tailwind.config.js
+
+
+Created files:
+* .autogit/logs/log-10-3-2022-9-13-57.txt
+* src/components/darkMode.js
+
+
+Deleted files:
+
+
+Renamed files:

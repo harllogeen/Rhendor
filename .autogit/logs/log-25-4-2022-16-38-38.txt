@@ -1,0 +1,22 @@
+-------------------- Auto-Git Log --------------------
+Wed May 25 2022 16:38:38 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/onboarding/Register.js
+* src/Pages/user/Account.js
+* src/Pages/user/DashboardServices.js
+* src/components/pageComponent/FullAccountCard.js
+* src/components/pageComponent/SearchForm.js
+
+
+Created files:
+
+
+Deleted files:
+* src/components/pageComponent/FilterDown.js
+* src/components/pageComponent/FilterUp.js
+* src/components/pageComponent/TopFilter.js
+
+
+Renamed files:

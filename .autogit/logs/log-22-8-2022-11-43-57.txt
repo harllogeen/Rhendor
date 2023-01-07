@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+Thu Sep 22 2022 11:43:57 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/assets/css/tailwind.css
+* src/components/pageComponent/PostCard.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

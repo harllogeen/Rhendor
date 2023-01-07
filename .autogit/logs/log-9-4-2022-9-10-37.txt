@@ -1,0 +1,24 @@
+-------------------- Auto-Git Log --------------------
+		Mon May 09 2022 09:10:37 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/assets/css/tailwind.css
+* src/components/form/FormTextArea.js
+* src/components/pageComponent/ChatBox.js
+* src/components/pageComponent/ChatBoxContainer.js
+* src/components/pageComponent/ChatBoxFooter.js
+* src/components/pageComponent/ChatBoxHeader.js
+* src/components/pageComponent/ChatList.js
+* src/components/pageComponent/ChatListContent.js
+
+
+Created files:
+* .autogit/logs/log-9-4-2022-8-37-15.txt
+* src/components/form/FormInputGroup.js
+
+
+Deleted files:
+
+
+Renamed files:

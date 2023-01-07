@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+Thu Jun 30 2022 11:00:11 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/components/pageComponent/UserProfile.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

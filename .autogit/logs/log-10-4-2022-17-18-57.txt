@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+		Tue May 10 2022 17:18:57 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/components/form/CallParentMethod.js
+* src/components/form/Form.js
+* src/components/nav/DashboardNav.js
+* src/index.js
+
+
+Created files:
+* .autogit/logs/log-10-4-2022-16-42-30.txt
+* src/Pages/user/EditProfile.js
+
+
+Deleted files:
+* src/Pages/user/ProfileSettings.js
+
+
+Renamed files:

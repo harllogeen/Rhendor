@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Thu May 12 2022 05:18:39 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/onboarding/Register.js
+* src/components/form/Form.js
+* src/components/form/HttpRequest.js
+* src/components/form/ProcessHttpMessage.js
+
+
+Created files:
+* .autogit/logs/log-12-4-2022-4-45-55.txt
+
+
+Deleted files:
+
+
+Renamed files:

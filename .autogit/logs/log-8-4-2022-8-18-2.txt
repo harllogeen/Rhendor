@@ -1,0 +1,57 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 08 2022 08:18:02 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* public/bit/static/js/622.856a8b57.js
+* public/index.html
+* src/Pages/onboarding/BecomeARendor+.js
+* src/Pages/onboarding/BecomeARhendor.js
+* src/Pages/onboarding/Login.js
+* src/Pages/onboarding/Register+.js
+* src/Pages/onboarding/Register.js
+* src/Pages/onboarding/ResetNewPasswordSuccess++.js
+* src/Pages/onboarding/ResetPassword.js
+* src/Pages/onboarding/SetNewPassword++.js
+* src/Pages/onboarding/SetNewPassword.js
+* src/Pages/onboarding/SetPasswordSuccess.js
+* src/Pages/pattern.svg
+* src/Pages/us/Contact.js
+* src/Pages/us/FrequentlyAskedQuestions.js
+* src/Pages/user/AppSettings.js
+* src/Pages/user/Dashboard++.js
+* src/Pages/user/Dashboard.js
+* src/assets/img/others/mask-img.svg
+* src/assets/img/others/pattern.svg
+* src/components/icons/SvgIcon.js
+* src/components/layouts/ResetLayout.js
+* src/components/nav/DashboardNav.js
+* src/components/nav/PagesNav.js
+* src/components/nav/ProfileNav++.js
+* src/components/nav/ProfileNav.js
+* src/components/nav/Sidebar.js
+* src/components/pageComponent/ChatBoxContent.js
+* src/components/pageComponent/ChatBoxFooter.js
+* src/components/pageComponent/ChatBoxHeader.js
+* src/components/pageComponent/ChatList.js
+* src/components/pageComponent/ChatListContent.js
+* src/components/pageComponent/ChatListHeader.js
+* src/components/pageComponent/ChatMessage.js
+* src/components/pageComponent/ChatPreview.js
+* src/components/pageComponent/ClientContactBtn.js
+* src/components/pageComponent/CustomerReviews.js
+* src/components/pageComponent/DashboardCard++.js
+* src/components/pageComponent/PostCard.js
+* src/components/pageComponent/ProjectsLayout.js
+* src/components/pageComponent/SendChatBtn.js
+* src/components/pageComponent/SideImg.js
+
+
+Created files:
+* .autogit/logs/log-7-4-2022-14-31-55.txt
+
+
+Deleted files:
+
+
+Renamed files:

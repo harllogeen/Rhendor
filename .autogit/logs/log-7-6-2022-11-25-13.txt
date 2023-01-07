@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+Thu Jul 07 2022 11:25:13 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/user/EditProfile.js
+* src/assets/css/tailwind.css
+* src/components/pageComponent/UserProfile.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

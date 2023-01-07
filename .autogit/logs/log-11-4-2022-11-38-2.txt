@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Wed May 11 2022 11:38:02 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* package-lock.json
+* package.json
+* src/Pages/App.js
+* src/assets/css/tailwind.css
+
+
+Created files:
+* .autogit/logs/log-11-4-2022-8-55-24.txt
+
+
+Deleted files:
+
+
+Renamed files:

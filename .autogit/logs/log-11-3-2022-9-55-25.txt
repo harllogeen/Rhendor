@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Mon Apr 11 2022 09:55:25 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/components/ResetSide.js
+
+
+Created files:
+* .autogit/logs/log-11-3-2022-8-46-9.txt
+
+
+Deleted files:
+
+
+Renamed files:

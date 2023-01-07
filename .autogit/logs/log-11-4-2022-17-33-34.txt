@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Wed May 11 2022 17:33:34 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/components/pageComponent/ChatBox.js
+* src/components/pageComponent/ChatBoxContent.js
+* src/components/pageComponent/ChatBoxFooter.js
+
+
+Created files:
+* .autogit/logs/log-11-4-2022-17-2-3.txt
+
+
+Deleted files:
+
+
+Renamed files:

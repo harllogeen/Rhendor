@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Sun Apr 10 2022 22:48:39 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/onboarding/ResetPassword.js
+* src/assets/css/tailwind.css
+
+
+Created files:
+* .autogit/logs/log-10-3-2022-22-18-0.txt
+
+
+Deleted files:
+
+
+Renamed files:

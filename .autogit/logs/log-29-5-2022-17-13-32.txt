@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+Wed Jun 29 2022 17:13:32 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/user/Dashboard.js
+* src/assets/css/tailwind.css
+* src/components/layouts/DashboardLayout.js
+* src/components/nav/DashboardNav.js
+* src/components/pageComponent/PostCard.js
+* tailwind.config.js
+
+
+Created files:
+* .autogit/logs/log-29-5-2022-14-53-11.txt
+
+
+Deleted files:
+
+
+Renamed files:

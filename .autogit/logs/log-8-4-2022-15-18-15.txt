@@ -1,0 +1,22 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 08 2022 15:18:15 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/user/Messages.js
+* src/assets/css/tailwind.css
+* src/components/features/UnreadMessagesCount.js
+* src/components/form/Form.js
+* src/components/nav/Sidebar.js
+* src/components/pageComponent/ChatListContent.js
+* src/tailwind.src.css
+
+
+Created files:
+* .autogit/logs/log-8-4-2022-14-33-44.txt
+
+
+Deleted files:
+
+
+Renamed files:

@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+Tue Jun 28 2022 18:29:43 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/assets/css/tailwind.css
+* src/components/nav/CreatePost.js
+* src/components/nav/Sidebar.js
+* src/components/pageComponent/ChatBoxContainer.js
+* src/components/pageComponent/PostCard.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

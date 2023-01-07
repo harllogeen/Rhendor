@@ -1,0 +1,22 @@
+-------------------- Auto-Git Log --------------------
+		Wed May 11 2022 08:55:24 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/user/Feeds.js
+* src/components/pageComponent/Rating.js
+* src/components/pageComponent/SmallAccountCard.js
+* src/components/pageComponent/UserJobDescription.js
+* src/components/pageComponent/UserTotalJobs.js
+* src/index.js
+
+
+Created files:
+* .autogit/logs/log-11-4-2022-7-53-13.txt
+* src/Pages/user/VerifyEmail.js
+
+
+Deleted files:
+
+
+Renamed files:

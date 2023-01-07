@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Fri May 13 2022 10:48:47 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/us/Services.js
+* src/Pages/user/DashboardServices.js
+* src/assets/css/tailwind.css
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

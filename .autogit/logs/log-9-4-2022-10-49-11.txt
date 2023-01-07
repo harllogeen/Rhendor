@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+		Mon May 09 2022 10:49:11 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/assets/css/tailwind.css
+* src/components/features/Avatar.js
+* src/components/pageComponent/ChatBoxContainer.js
+* src/components/pageComponent/ChatBoxHeader.js
+* src/components/pageComponent/ChatList.js
+* src/components/pageComponent/ChatListHeader.js
+
+
+Created files:
+* .autogit/logs/log-9-4-2022-10-16-35.txt
+
+
+Deleted files:
+
+
+Renamed files:

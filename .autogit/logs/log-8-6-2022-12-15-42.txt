@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+Fri Jul 08 2022 12:15:42 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/onboarding/BecomeARhendor.js
+* src/Pages/onboarding/Register.js
+* src/Pages/user/Account.js
+* src/components/pageComponent/ServicesGrid.js
+* src/components/pageComponent/UserJobDescription.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

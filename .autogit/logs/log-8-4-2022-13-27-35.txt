@@ -1,0 +1,40 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 08 2022 13:27:35 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/user/Messages.js
+* src/components/features/UnreadMessagesCount.js
+* src/components/form/Form.js
+* src/components/pageComponent/ChatBoxContent.js
+* src/components/pageComponent/ChatBoxFooter.js
+* src/components/pageComponent/ChatFormImg.js
+* src/components/pageComponent/ChatListHeader.js
+* src/components/pageComponent/FullAccountCard.js
+* src/components/pageComponent/JobQuality.js
+* src/components/pageComponent/SmallAccountCard.js
+* src/components/pageComponent/UnreadChat.js
+
+
+Created files:
+* .autogit/logs/log-8-4-2022-12-53-23.txt
+* src/components/features/BindThis.js
+
+
+Deleted files:
+* src/components/form/Form++.js
+* src/components/form/FormCheck++.js
+* src/components/form/HttpRequest+++.js
+* src/components/form/HttpRequest++.js
+* src/components/pageComponent/Avatar++.js
+* src/components/pageComponent/UnreadMessagesCount.js
+
+
+Renamed files:
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]

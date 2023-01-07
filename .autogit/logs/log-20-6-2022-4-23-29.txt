@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+Wed Jul 20 2022 04:23:29 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/onboarding/Register.js
+* src/assets/css/tailwind.css
+* src/components/nav/DashboardNav.js
+* src/components/pageComponent/UserProfile.js
+
+
+Created files:
+* .autogit/logs/log-20-6-2022-3-22-27.txt
+
+
+Deleted files:
+
+
+Renamed files:

@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+Fri Jul 08 2022 13:48:11 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/user/FetchList.js
+* src/Pages/user/ServiceRhendors.js
+* src/assets/css/tailwind.css
+* src/components/pageComponent/Service.js
+
+
+Created files:
+* .autogit/logs/log-8-6-2022-12-46-28.txt
+
+
+Deleted files:
+
+
+Renamed files:

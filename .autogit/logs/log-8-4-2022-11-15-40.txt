@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 08 2022 11:15:40 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/components/form/Form.js
+* src/components/pageComponent/ChatList.js
+
+
+Created files:
+* .autogit/logs/log-8-4-2022-10-9-11.txt
+* src/components/form/FormResponseDisplay.js
+* src/components/form/HttpRequest++.js
+* src/components/form/HttpRequest.js
+
+
+Deleted files:
+* src/components/form/HttpPostRequest.js
+
+
+Renamed files:

@@ -1,0 +1,25 @@
+-------------------- Auto-Git Log --------------------
+		Fri May 20 2022 01:51:38 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* form/build/index.js
+* form/src/components/Check.js
+* form/src/components/Select.js
+* form/src/components/Text.js
+* form/src/components/TextArea.js
+* form/src/index.js
+* form/webpack.config.js
+* src/Pages/user/EditProfile.js
+
+
+Created files:
+* .autogit/logs/log-18-4-2022-10-20-11.txt
+* form/build/index.js.LICENSE.txt
+* src/Pages/user/EditProfile_old.js
+
+
+Deleted files:
+
+
+Renamed files:

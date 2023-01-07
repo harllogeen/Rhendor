@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+Fri Jun 10 2022 06:33:46 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/App.js
+* src/components/pageComponent/Service.js
+* src/components/pageComponent/ServicesGrid.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

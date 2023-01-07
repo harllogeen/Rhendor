@@ -1,0 +1,69 @@
+-------------------- Auto-Git Log --------------------
+Thu May 26 2022 08:31:45 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/components/pageComponent/ChatListContent.js
+
+
+Created files:
+
+
+Deleted files:
+* chatbox/.babelrc
+* chatbox/.gitignore
+* chatbox/.npmignore
+* chatbox/package-lock.json
+* chatbox/package.json
+* chatbox/src/components/ChatBox.js
+* chatbox/src/components/ChatBoxContainer.js
+* chatbox/src/components/ChatBoxContent.js
+* chatbox/src/components/ChatBoxFooter.js
+* chatbox/src/components/ChatBoxHeader.js
+* chatbox/src/components/ChatFormImg.js
+* chatbox/src/components/ChatList.js
+* chatbox/src/components/ChatListContent.js
+* chatbox/src/components/ChatListHeader.js
+* chatbox/src/components/ChatMessage.js
+* chatbox/src/components/ChatPreview.js
+* chatbox/src/index.js
+* chatbox/webpack.config.js
+* form/.babelrc
+* form/.gitignore
+* form/.npmignore
+* form/build/index.js
+* form/build/index.js.LICENSE.txt
+* form/package-lock.json
+* form/package.json
+* form/src/components/AlertText.js
+* form/src/components/BindThis.js
+* form/src/components/Button.js
+* form/src/components/CallParentMethod.js
+* form/src/components/Check2.js
+* form/src/components/Checkbox.js
+* form/src/components/DynamicComponent.js
+* form/src/components/Form.js
+* form/src/components/FormOriginal.js
+* form/src/components/FullButton.js
+* form/src/components/HttpRequest.js
+* form/src/components/InputGroup.js
+* form/src/components/MutedText.js
+* form/src/components/ProcessHttpMessage.js
+* form/src/components/ResponseDisplay.js
+* form/src/components/Select.js
+* form/src/components/SendChatBtn.js
+* form/src/components/SvgIcon.js
+* form/src/components/Text.js
+* form/src/components/TextArea.js
+* form/src/index+++.js
+* form/src/index.js
+* form/webpack.config.js
+* package-default/.babelrc
+* package-default/.gitignore
+* package-default/.npmignore
+* package-default/package.json
+* package-default/src/index.js
+* package-default/webpack.config.js
+
+
+Renamed files:

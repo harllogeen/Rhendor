@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+Fri May 20 2022 08:24:58 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* package-lock.json
+* package.json
+* src/Pages/user/EditProfile.js
+* src/components/nav/Sidebar.js
+
+
+Created files:
+* .autogit/logs/log-20-4-2022-7-19-39.txt
+
+
+Deleted files:
+
+
+Renamed files:

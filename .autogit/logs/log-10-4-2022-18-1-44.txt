@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Tue May 10 2022 18:01:44 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/user/EditProfile.js
+* src/components/form/Form.js
+* src/components/icons/SvgIcon.js
+* src/components/layouts/Onboarding1.js
+
+
+Created files:
+* .autogit/logs/log-10-4-2022-17-18-57.txt
+
+
+Deleted files:
+
+
+Renamed files:

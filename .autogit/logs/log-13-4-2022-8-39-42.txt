@@ -1,0 +1,25 @@
+-------------------- Auto-Git Log --------------------
+		Fri May 13 2022 08:39:42 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/onboarding/Login.js
+* src/Pages/onboarding/ResetPassword.js
+* src/assets/css/tailwind.css
+* src/components/form/Form.js
+* src/components/form/HttpRequest.js
+* src/components/form/ProcessHttpMessage.js
+* src/components/layouts/ResetLayout.js
+* src/index.js
+
+
+Created files:
+* .autogit/logs/log-12-4-2022-13-37-12.txt
+* src/Pages/onboarding/ForgotPassword.js
+
+
+Deleted files:
+* src/Pages/onboarding/SetNewPassword.js
+
+
+Renamed files:

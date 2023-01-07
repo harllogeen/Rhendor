@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+Wed Jun 29 2022 07:49:22 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/components/nav/Sidebar.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

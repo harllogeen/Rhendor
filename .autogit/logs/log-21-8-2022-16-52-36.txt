@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+Wed Sep 21 2022 16:52:36 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/components/pageComponent/PostCard.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

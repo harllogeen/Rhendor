@@ -1,0 +1,22 @@
+-------------------- Auto-Git Log --------------------
+Fri May 27 2022 17:40:26 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/assets/css/tailwind.css
+* src/components/features/RankingAnalytic.js
+* src/components/features/RankingStars.js.js
+* src/components/features/RatingWithProgress.js
+* src/components/pageComponent/CustomerReviews.js
+* src/components/pageComponent/JobQuality.js
+* src/components/pageComponent/UserJobDescription.js
+
+
+Created files:
+* src/components/features/RatingWithProgress.js
+
+
+Deleted files:
+
+
+Renamed files:

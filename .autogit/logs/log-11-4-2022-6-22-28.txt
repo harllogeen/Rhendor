@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+		Wed May 11 2022 06:22:28 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/user/EditProfile.js
+* src/Pages/user/Feeds.js
+* src/components/nav/DashboardNav.js
+* src/components/pageComponent/Card.js
+* src/components/pageComponent/SmallAccountCard.js
+
+
+Created files:
+* .autogit/logs/log-11-4-2022-5-48-9.txt
+* src/components/pageComponent/SmallAccountCard++.js
+
+
+Deleted files:
+
+
+Renamed files:

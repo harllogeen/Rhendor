@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+		Sun Apr 10 2022 18:28:48 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/onboarding/Login.js
+* src/Pages/onboarding/Register.js
+* src/assets/css/tailwind.css
+* src/components/FormText.js
+
+
+Created files:
+* .autogit/logs/log-10-3-2022-17-57-56.txt
+* src/components/FormCheck.js
+* src/components/LogoContent.js
+
+
+Deleted files:
+
+
+Renamed files:

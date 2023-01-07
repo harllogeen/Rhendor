@@ -1,0 +1,24 @@
+-------------------- Auto-Git Log --------------------
+		Mon May 09 2022 10:16:35 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/user/Dashboard.js
+* src/assets/css/tailwind.css
+* src/components/features/darkMode.js
+* src/components/nav/DashboardNav.js
+* src/components/pageComponent/ChatBox.js
+* src/components/pageComponent/ChatBoxContainer.js
+* src/components/pageComponent/ChatBoxHeader.js
+* src/components/pageComponent/ChatList.js
+* src/components/pageComponent/ChatListHeader.js
+
+
+Created files:
+* .autogit/logs/log-9-4-2022-9-43-54.txt
+
+
+Deleted files:
+
+
+Renamed files:

@@ -1,0 +1,22 @@
+-------------------- Auto-Git Log --------------------
+Sun Jul 17 2022 01:56:24 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/user/EditProfile.js
+* src/Pages/user/ServiceRhendors.js
+* src/assets/css/tailwind.css
+* src/components/pageComponent/FullAccountCard.js
+* src/components/pageComponent/Service.js
+* src/components/pageComponent/ServicesGrid.js
+* src/components/pageComponent/UserProfile.js
+
+
+Created files:
+* .autogit/logs/log-17-6-2022-0-55-27.txt
+
+
+Deleted files:
+
+
+Renamed files:

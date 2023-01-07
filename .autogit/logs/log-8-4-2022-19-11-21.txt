@@ -1,0 +1,33 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 08 2022 19:11:21 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* public/bit/static/css/622.595394cb.css
+* public/bit/static/js/622.856a8b57.js
+* public/logo.svg
+* src/Pages/pattern.svg
+* src/Pages/user/Dashboard++.js
+* src/Pages/user/Dashboard.js
+* src/assets/img/icon/instagram.svg
+* src/assets/img/others/dashboard-post-image-2.svg
+* src/assets/img/others/logo.svg
+* src/assets/img/others/mask-img.svg
+* src/assets/img/others/pattern.svg
+* src/assets/img/others/white-logo.svg
+* src/components/features/DuplicateItems.js
+* src/components/form/Form.js
+* src/components/form/ProcessHttpMessage.js
+* src/components/icons/SvgIcon.js
+* src/components/pageComponent/DashboardCard++.js
+* src/logo.svg
+
+
+Created files:
+* .autogit/logs/log-8-4-2022-18-39-23.txt
+
+
+Deleted files:
+
+
+Renamed files:

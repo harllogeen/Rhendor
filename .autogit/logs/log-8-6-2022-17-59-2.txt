@@ -1,0 +1,56 @@
+-------------------- Auto-Git Log --------------------
+Fri Jul 08 2022 17:59:02 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/user/Feeds.js
+* src/assets/css/tailwind.css
+* src/components/form/Form.js
+* src/components/nav/CreatePost.js
+* src/components/nav/DashboardNav.js
+
+
+Created files:
+
+
+Deleted files:
+* build/asset-manifest.json
+* build/index.html
+* build/static/css/main.2d585944.css
+* build/static/css/main.2d585944.css.map
+* build/static/js/main.b19076e2.js
+* build/static/js/main.b19076e2.js.LICENSE.txt
+* build/static/js/main.b19076e2.js.map
+* build/static/media/Communitysection.50bb1c1232402fe6b751.png
+* build/static/media/Rhendor.a8f439f98da5604fabbab12ad067c7a2.svg
+* build/static/media/Taieri.8888d2efdc2830b5f14a.png
+* build/static/media/about-img.fb40461165f9034b9738a1b810145493.svg
+* build/static/media/becomeARendor-bg.9117c4be5c5c4a6af0ebb67af84dd212.svg
+* build/static/media/browse-file.0244ab3ea5b23be37c1f92be62556985.svg
+* build/static/media/card.0feb55df2c9fc284d74d7aaa2e5730c3.svg
+* build/static/media/community-file.52abfa5666c63603c7a1cb3fd6f8154a.svg
+* build/static/media/connect1.3c690b0e697f09eaed82.png
+* build/static/media/connect2.71df89415e6f8d350e9b.png
+* build/static/media/dashboard-post-avatar.1f57d71935e4289c7f0106df60f355c4.svg
+* build/static/media/doodle-dots-left.d213c3722123f1e0d04dc4be53d3b335.svg
+* build/static/media/doodle-dots-right.4a0adc768152707b9c239a19e17bc329.svg
+* build/static/media/emoji.cff4e8ef326241a069a4dc355b6eda77.svg
+* build/static/media/facebook.3dd0d980419a483d627872e6f09d2045.svg
+* build/static/media/index-top-img.0a395df868c1baa164ea9bd34ac6b0ac.svg
+* build/static/media/index-top-img2.8d4c533c24f1f8e0ffa19e9a8a3068fc.svg
+* build/static/media/instagram.9e0ab56e7ce1c40b52511e2470086de1.svg
+* build/static/media/login-bg.cf0c4d81fdcdcaf693a823341e98057f.svg
+* build/static/media/logo.d9811f641269504ac5ae67fd46ca7d42.svg
+* build/static/media/map-top-img.7de8df69ff2506b232bb2c7830994c28.svg
+* build/static/media/map.482fb5cf7739b308ba77c4d093d41655.svg
+* build/static/media/msg-file.e0e6eaea1d603029d7c0135fa4196fe0.svg
+* build/static/media/pattern.f96616d879b67674d405c0a9881cc32b.svg
+* build/static/media/slick.2630a3e3eab21c607e21.svg
+* build/static/media/slick.295183786cd8a1389865.woff
+* build/static/media/slick.a4e97f5a2a64f0ab1323.eot
+* build/static/media/slick.c94f7671dcc99dce43e2.ttf
+* build/static/media/testimonial-img.f806c0caa8a66686e394b721db07f9ca.svg
+* build/static/media/white-logo.85a8a388b6650852ea4a819571b6c618.svg
+
+
+Renamed files:

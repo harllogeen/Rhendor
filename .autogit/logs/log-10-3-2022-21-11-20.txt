@@ -1,0 +1,25 @@
+-------------------- Auto-Git Log --------------------
+		Sun Apr 10 2022 21:11:20 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/onboarding/BecomeARendor.js
+* src/Pages/onboarding/Login.js
+* src/Pages/onboarding/Register.js
+* src/components/FormCheck.js
+* src/components/LogoContent.js
+* src/components/TwoSections.js
+* src/index.js
+
+
+Created files:
+* .autogit/logs/log-10-3-2022-20-33-54.txt
+* src/Pages/onboarding/ResetPassword.js
+* src/components/ResetSide.js
+
+
+Deleted files:
+* src/Pages/onboarding/ForgotPassword.js
+
+
+Renamed files:

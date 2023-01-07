@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+Sat Jul 09 2022 07:29:15 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/assets/css/tailwind.css
+* src/components/pageComponent/Service.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

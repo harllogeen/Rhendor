@@ -1,0 +1,28 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 08 2022 14:33:44 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/components/features/SeeAllBtn.js
+* src/components/features/UnreadMessagesCount.js
+* src/components/form/Form.js
+* src/components/form/HttpRequest.js
+* src/components/form/SendChatBtn.js
+* src/components/nav/Sidebar.js
+* src/components/pageComponent/ChatBoxContent.js
+* src/components/pageComponent/ChatBoxFooter.js
+* src/components/pageComponent/ChatBoxHeader.js
+* src/components/pageComponent/ChatMessage.js
+* src/components/pageComponent/ChatPreview.js
+* src/components/pageComponent/CustomerReviews.js
+* src/components/pageComponent/PostCard.js
+
+
+Created files:
+* .autogit/logs/log-8-4-2022-13-27-35.txt
+
+
+Deleted files:
+
+
+Renamed files:

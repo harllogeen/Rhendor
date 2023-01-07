@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+Sun Jul 17 2022 00:55:27 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/components/features/Modal.js
+* src/components/nav/DashboardNav.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

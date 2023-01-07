@@ -1,0 +1,29 @@
+-------------------- Auto-Git Log --------------------
+Fri Jun 10 2022 10:06:59 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* build/static/css/main.07aed092.css
+* build/static/css/main.07aed092.css.map
+* build/static/js/main.42094580.js
+* build/static/js/main.42094580.js.map
+* src/Pages/App.js
+* src/Pages/user/Feeds.js
+* src/Pages/user/UserProfile.js
+* src/components/nav/CreatePost.js
+* src/components/nav/Footer.js
+* src/components/nav/Sidebar.js
+* src/components/pageComponent/Rating.js
+* src/components/pageComponent/Service.js
+* src/components/pageComponent/ServicesGrid.js
+
+
+Created files:
+* .autogit/logs/log-10-5-2022-8-44-30.txt
+* src/Pages/user/FetchList.js
+
+
+Deleted files:
+
+
+Renamed files:

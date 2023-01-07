@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 15 2022 14:13:21 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/user/UserProfile.js
+* src/components/pageComponent/UserJobDescription.js
+
+
+Created files:
+* .autogit/logs/log-15-4-2022-13-42-0.txt
+* src/components/form/DynamicComponent.js
+* src/components/pageComponent/UserJobDescription++.js
+
+
+Deleted files:
+
+
+Renamed files:

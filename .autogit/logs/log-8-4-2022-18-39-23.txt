@@ -1,0 +1,28 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 08 2022 18:39:23 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/onboarding/BecomeARendor+.js
+* src/Pages/onboarding/BecomeARhendor.js
+* src/Pages/onboarding/Login.js
+* src/Pages/onboarding/Register+.js
+* src/Pages/onboarding/Register.js
+* src/Pages/onboarding/ResetPassword.js
+* src/Pages/onboarding/SetNewPassword.js
+* src/Pages/us/Contact.js
+* src/Pages/user/AppSettings.js
+* src/components/features/DuplicateItems.js
+* src/components/form/CallParentMethod.js
+* src/components/form/Form.js
+* src/components/pageComponent/ChatListContent.js
+
+
+Created files:
+* .autogit/logs/log-8-4-2022-16-21-46.txt
+
+
+Deleted files:
+
+
+Renamed files:

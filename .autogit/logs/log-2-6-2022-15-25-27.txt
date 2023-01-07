@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+Sat Jul 02 2022 15:25:27 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/us/Contact.js
+* src/Pages/user/Messages.js
+* src/assets/css/tailwind.css
+* src/components/layouts/DashboardLayout.js
+* src/components/pageComponent/ChatList.js
+* src/components/pageComponent/ChatListHeader.js
+* src/components/pageComponent/ChatPreview.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

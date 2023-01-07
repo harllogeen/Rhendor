@@ -1,0 +1,23 @@
+-------------------- Auto-Git Log --------------------
+		Sun Apr 10 2022 05:52:12 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* public/index.html
+* src/Pages/onboarding/Login.js
+* src/assets/css/index.css
+* src/assets/css/output.css
+* src/components/TwoSections.js
+* src/logo.svg
+
+
+Created files:
+* .autogit/logs/log-10-3-2022-5-21-29.txt
+* public/logo.svg
+* src/assets/img/logo.svg
+
+
+Deleted files:
+
+
+Renamed files:

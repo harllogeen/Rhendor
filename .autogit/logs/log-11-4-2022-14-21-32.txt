@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Wed May 11 2022 14:21:32 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/onboarding/Login.js
+* src/assets/css/tailwind.css
+* src/components/form/Form.js
+* src/components/nav/Sidebar.js
+
+
+Created files:
+* .autogit/logs/log-11-4-2022-13-49-12.txt
+
+
+Deleted files:
+
+
+Renamed files:

@@ -1,0 +1,24 @@
+-------------------- Auto-Git Log --------------------
+		Thu May 12 2022 04:45:55 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* package-lock.json
+* package.json
+* src/Pages/onboarding/Register.js
+* src/assets/css/tailwind.css
+* src/components/form/FormCheck.js
+* src/components/form/HttpRequest.js
+* src/components/layouts/DashboardLayout.js
+* src/components/layouts/OverallLayout.js
+* src/components/pageComponent/ChatBoxContainer.js
+
+
+Created files:
+* .autogit/logs/log-12-4-2022-3-10-12.txt
+
+
+Deleted files:
+
+
+Renamed files:

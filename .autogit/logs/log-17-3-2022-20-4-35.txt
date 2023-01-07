@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Sun Apr 17 2022 20:04:35 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/onboarding/Register.js
+* src/components/Form++.js
+
+
+Created files:
+* .autogit/logs/log-17-3-2022-19-33-56.txt
+* src/Pages/onboarding/Register+.js
+
+
+Deleted files:
+
+
+Renamed files:

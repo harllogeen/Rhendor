@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Sun Apr 10 2022 20:00:50 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/assets/css/tailwind.css
+* src/components/FormCheck.js
+
+
+Created files:
+* .autogit/logs/log-10-3-2022-19-30-16.txt
+* src/components/FormCheck2.js
+
+
+Deleted files:
+
+
+Renamed files:

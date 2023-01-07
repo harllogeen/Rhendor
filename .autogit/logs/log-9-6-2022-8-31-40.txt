@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+Sat Jul 09 2022 08:31:40 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/user/Account.js
+* src/Pages/user/DashboardServices.js
+* src/assets/css/tailwind.css
+* src/components/nav/DashboardNav.js
+* src/components/pageComponent/Service.js
+* src/components/pageComponent/UserProfile.js
+
+
+Created files:
+* .autogit/logs/log-9-6-2022-7-29-15.txt
+
+
+Deleted files:
+
+
+Renamed files:

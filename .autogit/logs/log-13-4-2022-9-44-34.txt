@@ -1,0 +1,25 @@
+-------------------- Auto-Git Log --------------------
+		Fri May 13 2022 09:44:34 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/onboarding/BecomeARendor+.js
+* src/Pages/onboarding/BecomeARhendor.js
+* src/Pages/onboarding/ForgotPassword.js
+* src/Pages/onboarding/Register+.js
+* src/Pages/onboarding/ResetPassword.js
+* src/Pages/user/AppSettings.js
+* src/assets/css/tailwind.css
+* src/components/form/Form.js
+* src/components/form/HttpRequest.js
+* src/components/form/ProcessHttpMessage.js
+
+
+Created files:
+* .autogit/logs/log-13-4-2022-8-39-42.txt
+
+
+Deleted files:
+
+
+Renamed files:

@@ -1,0 +1,25 @@
+-------------------- Auto-Git Log --------------------
+Tue Jun 21 2022 18:42:00 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Pages/App.css
+* src/Pages/App.js
+* src/assets/css/tailwind.css
+* src/components/assets/Logo.js
+* src/components/assets/WhiteLogo.js
+* src/components/nav/DashboardNav.js
+* src/components/nav/DashboardNavLink.js
+* src/components/nav/Footer.js
+* src/components/nav/Header.js
+* src/components/pageComponent/Hero.js
+
+
+Created files:
+* .autogit/logs/log-21-5-2022-14-8-19.txt
+
+
+Deleted files:
+
+
+Renamed files:

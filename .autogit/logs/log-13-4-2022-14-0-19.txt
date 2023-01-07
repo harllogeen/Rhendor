@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Fri May 13 2022 14:00:19 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* package-lock.json
+* package.json
+* src/assets/css/tailwind.css
+* src/components/pageComponent/ChatBoxFooter.js
+* src/components/pageComponent/ChatMessage.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

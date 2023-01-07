@@ -1,0 +1,59 @@
+-------------------- Auto-Git Log --------------------
+Sun May 22 2022 09:46:59 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* package-lock.json
+* package.json
+* src/Pages/user/Dashboard.js
+* src/assets/css/tailwind.css
+* src/components/features/EmojiPicker.js
+
+
+Created files:
+* .autogit/logs/log-22-4-2022-7-10-36.txt
+* .autogit/logs/log-22-4-2022-8-6-5.txt
+* chatbox/.babelrc
+* chatbox/.gitignore
+* chatbox/.npmignore
+* chatbox/package-lock.json
+* chatbox/package.json
+* chatbox/src/index.js
+* chatbox/webpack.config.js
+* dark-mode/.babelrc
+* dark-mode/.gitignore
+* dark-mode/.npmignore
+* dark-mode/package-lock.json
+* dark-mode/package.json
+* dark-mode/src/components/DarkMode.js
+* dark-mode/src/index.js
+* dark-mode/webpack.config.js
+* package-default/.babelrc
+* package-default/.gitignore
+* package-default/.npmignore
+* package-default/package.json
+* package-default/src/index.js
+* package-default/webpack.config.js
+* src/components/features/EmojiPicker.js
+* svg-icons/.babelrc
+* svg-icons/.gitignore
+* svg-icons/.npmignore
+* svg-icons/package-lock.json
+* svg-icons/package.json
+* svg-icons/src/components/SvgIcon.js
+* svg-icons/src/index.js
+* svg-icons/webpack.config.js
+* utilities/.babelrc
+* utilities/.gitignore
+* utilities/.npmignore
+* utilities/package-lock.json
+* utilities/package.json
+* utilities/src/index.js
+* utilities/webpack.config.js
+
+
+Deleted files:
+* src/component/undefined.js
+
+
+Renamed files:

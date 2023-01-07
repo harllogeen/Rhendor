@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+Fri May 27 2022 13:40:57 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/components/pageComponent/FullAccountCard.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

@@ -1,0 +1,24 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 08 2022 09:36:44 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/components/pageComponent/ChatListHeader.js
+* src/components/pageComponent/UnreadMessagesCount.js
+
+
+Created files:
+* .autogit/logs/log-8-4-2022-9-4-48.txt
+* src/components/pageComponent/UpDownToggle.js
+
+
+Deleted files:
+* src/components/pageComponent/components/UnreadMessageCount/UnreadMessageCount.scss
+* src/components/pageComponent/components/UnreadMessageCount/UnreadMessageCount.stories.tsx
+* src/components/pageComponent/components/UnreadMessageCount/UnreadMessageCount.tsx
+* src/components/pageComponent/components/UnreadMessageCount/index.ts
+* src/components/pageComponent/components/UnreadMessageCount/tests/UnreadMessageCount.test.tsx
+* src/components/pageComponent/components/index.ts
+
+
+Renamed files:

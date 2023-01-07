@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+Wed Jul 06 2022 07:23:08 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* package-lock.json
+* package.json
+* src/Pages/user/Dashboard.js
+* src/Pages/user/EditProfile.js
+* src/components/nav/CreatePost.js
+* yarn.lock
+
+
+Created files:
+* .autogit/logs/log-6-6-2022-6-21-24.txt
+
+
+Deleted files:
+
+
+Renamed files:

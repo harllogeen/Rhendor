@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+Sat May 28 2022 05:52:04 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/assets/css/tailwind.css
+* src/components/form/FormText.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:
